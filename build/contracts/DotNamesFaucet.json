@@ -1,0 +1,22 @@
+[
+  "constructor(uint256)",
+  "error OwnableInvalidOwner(address)",
+  "error OwnableUnauthorizedAccount(address)",
+  "event Dispensed(address,uint256)",
+  "event MaintainerAdded(address)",
+  "event MaintainerRemoved(address)",
+  "event MaxDisperseAmountUpdated(uint256)",
+  "event OwnershipTransferred(address indexed,address indexed)",
+  "event Withdrawn(uint256)",
+  "function drip(address)",
+  "function lockTime(address) view returns (uint256)",
+  "function maintainers(address) view returns (bool)",
+  "function maxDisperse() view returns (uint256)",
+  "function owner() view returns (address)",
+  "function removeMaintainer(address)",
+  "function renounceOwnership()",
+  "function setMaintainer(address)",
+  "function setMaxDisperse(uint256)",
+  "function transferOwnership(address)",
+  "function withdrawETH(uint256)"
+]

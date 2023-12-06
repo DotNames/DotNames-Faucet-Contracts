@@ -1,0 +1,23 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.2",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-solhint": "^3.0.1",
+    "@nomiclabs/hardhat-truffle5": "^2.0.7",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1",
+    "hardhat-abi-exporter": "^2.10.1",
+    "hardhat-contract-sizer": "^2.10.0",
+    "hardhat-deploy": "^0.11.44",
+    "hardhat-gas-reporter": "^1.0.9",
+    "ts-node": "^10.9.1"
+  }
+}
